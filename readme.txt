@@ -1,3 +1,4 @@
+how to use the program
 readme 1
 readme 2
 readme 3
